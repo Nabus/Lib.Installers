@@ -1,0 +1,5 @@
+ConfigApp/ConfigApp/bin/
+ConfigApp/ConfigApp/obj/
+ConfigApp/Lib/obj/
+ConfigApp/Lib/bin/
+*.suo
